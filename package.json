@@ -1,0 +1,24 @@
+{
+  "name": "desafio-pos-aula06",
+  "version": "1.0.0",
+  "description": "Desafio da materia de programação JS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manoel-leal/Desafio-pos-aula06-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/manoel-leal/Desafio-pos-aula06-js/issues"
+  },
+  "homepage": "https://github.com/manoel-leal/Desafio-pos-aula06-js#readme",
+  "dependencies": {
+    "mocha": "^11.7.5"
+  }
+}
